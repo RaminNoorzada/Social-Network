@@ -7,7 +7,7 @@ To get started with this API, you will need to have Node.js and MongoDB installe
 
 Clone the repository:
 
-git clone https://github.com/yourusername/social-network-api.git
+git clone https://github.com/RaminNoorzada/Social-Network
 
 ## Install the dependencies:
 
